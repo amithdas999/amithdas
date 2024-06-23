@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718794168578,1078,/index.php-1,200,OK,Thread Group 1-1,text,true,,3682,715,1,1,https://performancetestingpractice.com/index.php,1077,0,878
+1718794169660,206,/login.php-2,200,OK,Thread Group 1-1,text,true,,2942,792,1,1,https://performancetestingpractice.com/login.php,206,0,0
+1718794169871,423,/login.php-3,200,OK,Thread Group 1-1,text,true,,15515,2035,1,1,https://performancetestingpractice.com/dashboard.php,235,0,0
+1718794169871,235,/login.php-3-0,302,Moved Temporarily,Thread Group 1-1,text,true,,10616,1107,1,1,https://performancetestingpractice.com/login.php,235,0,0
+1718794170108,186,/login.php-3-1,200,OK,Thread Group 1-1,text,true,,4899,928,1,1,https://performancetestingpractice.com/dashboard.php,186,0,0
+1718794170297,190,/dashboard.php-4,200,OK,Thread Group 1-1,text,true,,4899,831,1,1,https://performancetestingpractice.com/dashboard.php,190,0,0
+1718794170489,189,/senerio.php-5,200,OK,Thread Group 1-1,text,true,,2650,807,1,1,https://performancetestingpractice.com/senerio.php,189,0,0
+1718794170680,384,/logout.php-6,200,OK,Thread Group 1-1,text,true,,3427,1631,1,1,https://performancetestingpractice.com/login.php,184,0,0
+1718794170680,184,/logout.php-6-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,816,1,1,https://performancetestingpractice.com/logout.php,184,0,0
+1718794170864,200,/logout.php-6-1,200,OK,Thread Group 1-1,text,true,,2941,815,1,1,https://performancetestingpractice.com/login.php,200,0,0
